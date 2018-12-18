@@ -1,0 +1,7 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/iamlasse/express-react-auth-server.git
+	branch = master
+[submodule "client"]
+	path = client
+	url = https://github.com/iamlasse/react-auth-app.git
